@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>#home &#8211; my blog</title>
+	<atom:link href="https://haizgia.github.io/wp_ck/tag/home-2/feed/" rel="self" type="application/rss+xml" />
+	<link>https://haizgia.github.io/wp_ck/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Aug 2022 01:57:36 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
+	<title>#home &#8211; my blog</title>
+	<link>https://haizgia.github.io/wp_ck/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tạo Page Trang Chủ</title>
+		<link>https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/</link>
+					<comments>https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/#respond</comments>
+		
+		<dc:creator><![CDATA[haizgia]]></dc:creator>
+		<pubDate>Sat, 23 Jul 2022 13:56:46 +0000</pubDate>
+				<category><![CDATA[Wordpress]]></category>
+		<category><![CDATA[#home]]></category>
+		<category><![CDATA[#wordpress]]></category>
+		<guid isPermaLink="false">https://haizgia.com/haizgia.com/?p=5</guid>
+
+					<description><![CDATA[Bài đầu :33]]></description>
+										<content:encoded><![CDATA[
+<p></p>
+
+
+
+<h4><strong><em>Cách để tạo Trang chủ</em></strong></h4>
+
+
+
+<ul><li>Bước 1: Tạo 1 page</li><li>Bước 2: Chọn &#8220;Cài đặt&#8221; =&gt; &#8220;Đọc&#8221; =&gt; tích &#8220;Một trang tĩnh&#8221;, tại mục trang chính chọn page muốn làm trang chủ sau đó bấm &#8220;Lưu thay đổi&#8221;</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
