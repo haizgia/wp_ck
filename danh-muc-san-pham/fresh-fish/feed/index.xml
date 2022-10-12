@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fresh Fish &#8211; my blog</title>
+	<atom:link href="https://haizgia.github.io/wp_ck/danh-muc-san-pham/fresh-fish/feed/" rel="self" type="application/rss+xml" />
+	<link>https://haizgia.github.io/wp_ck/</link>
+	<description></description>
+	<lastBuildDate>Sat, 08 Oct 2022 13:54:17 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
+	<title>Fresh Fish &#8211; my blog</title>
+	<link>https://haizgia.github.io/wp_ck/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fresh Sea Fish</title>
+		<link>https://haizgia.github.io/wp_ck/san-pham/fresh-sea-fish/</link>
+					<comments>https://haizgia.github.io/wp_ck/san-pham/fresh-sea-fish/#respond</comments>
+		
+		<dc:creator><![CDATA[haizgia]]></dc:creator>
+		<pubDate>Sat, 08 Oct 2022 13:52:34 +0000</pubDate>
+				<guid isPermaLink="false">https://haizgia.github.io/wp_ck/?post_type=product&#038;p=1072</guid>
+
+					<description><![CDATA[Sumptuous, filling, and temptingly healthy, our Biona Organic Granola with Wild Berries is just the thing to get you out of bed. The goodness of rolled wholegrain oats are combined with a variety of tangy organic berries, and baked into crispy clusters that are as nutritious.]]></description>
+										<content:encoded><![CDATA[<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true gener ator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/san-pham/fresh-sea-fish/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+.elementor-254 .elementor-element.elementor-element-7fa0feb:not(.elementor-motion-effects-element-type-background), .elementor-254 .elementor-element.elementor-element-7fa0feb > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://haizgia.github.io/wp_ck/wp-content/uploads/2022/10/h7-bg-slider1.jpg");background-size:cover;}.elementor-254 .elementor-element.elementor-element-7fa0feb > .elementor-background-overlay{background-image:url("https://haizgia.github.io/wp_ck/wp-content/uploads/2022/10/h3-layer1.png");background-position:bottom left;background-repeat:no-repeat;background-size:36% auto;opacity:0.6;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-254 .elementor-element.elementor-element-7fa0feb, .elementor-254 .elementor-element.elementor-element-7fa0feb > .elementor-background-overlay{border-radius:4% 4% 4% 4%;}.elementor-254 .elementor-element.elementor-element-7fa0feb{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:30px 30px 30px 30px;}.elementor-254 .elementor-element.elementor-element-bab4152 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px;}.elementor-254 .elementor-element.elementor-element-11771cd{--spacer-size:30px;}.elementor-254 .elementor-element.elementor-element-d9df8a1{text-align:center;}.elementor-254 .elementor-element.elementor-element-d9df8a1 .elementor-heading-title{color:#010148;font-family:"Barlow", Sans-serif;font-size:36px;font-weight:600;}.elementor-254 .elementor-element.elementor-element-8f5565d{--divider-border-style:dashed;--divider-color:#62A403;--divider-border-width:2px;}.elementor-254 .elementor-element.elementor-element-8f5565d .elementor-divider-separator{width:34%;margin:0 auto;margin-center:0;}.elementor-254 .elementor-element.elementor-element-8f5565d .elementor-divider{text-align:center;padding-top:8px;padding-bottom:8px;}.elementor-254 .elementor-element.elementor-element-8f5565d .elementor-icon i, .elementor-254 .elementor-element.elementor-element-8f5565d .elementor-icon svg{transform:rotate(0deg);}.elementor-254 .elementor-element.elementor-element-ed6476a{text-align:center;}.elementor-254 .elementor-element.elementor-element-ed6476a .elementor-heading-title{color:#010148;}.elementor-254 .elementor-element.elementor-element-a2967c5{font-family:"Roboto", Sans-serif;font-size:15px;font-weight:400;line-height:25px;}.elementor-254 .elementor-element.elementor-element-a2967c5 > .elementor-widget-container{margin:4px 0px 0px 0px;}.elementor-254 .elementor-element.elementor-element-1a6d580{--spacer-size:50px;}#elementor-popup-modal-254 .dialog-message{width:800px;height:auto;}#elementor-popup-modal-254{justify-content:center;align-items:center;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-254 .dialog-close-button{display:flex;top:0%;background-color:#FFFFFF;font-size:38px;}#elementor-popup-modal-254 .dialog-widget-content{animation-duration:1s;border-radius:4px 4px 4px 4px;box-shadow:0px 0px 20px 20px rgba(255, 255, 255, 0.2);}body:not(.rtl) #elementor-popup-modal-254 .dialog-close-button{right:0%;}body.rtl #elementor-popup-modal-254 .dialog-close-button{left:0%;}#elementor-popup-modal-254 .dialog-close-button i{color:#000000;}#elementor-popup-modal-254 .dialog-close-button svg{fill:#000000;}@media(min-width:768px){.elementor-254 .elementor-element.elementor-element-bab4152{width:78%;}.elementor-254 .elementor-element.elementor-element-589dada{width:22%;}}/* Start custom CSS for html, class: .elementor-element-d7bf8f6 */#popup-input-form {
+    text-align: center;
+}
+.popup-input-form {
+    border: 2px solid #62A403;
+    display: inline-block;
+    border-radius: 4px;
+}
+.popup-input-form .form__field{
+    background-color: transparent;
+    box-shadow: none;
+    font-style: italic;
+    font-family: lora;
+    min-width: 220px;
+    font-size: 16px;
+}
+.popup-input-form .input-btn{
+    background-color: #62A403;
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+}
+.popup-input-form .input-btn a {
+    color: white;
+}
+.popup-input-form .input-icon{
+    padding: 0 8px;
+    font-size: 20px;
+}
+.popup-input-form .form__field:focus, .popup-input-form .input-btn a:focus{
+    outline: none;
+    background-color: transparent;
+}
+.popup-input-form form{
+    margin: 0;
+}/* End custom CSS */
+/* Start custom CSS */.dialog-close-button {
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0px 0px 1px #bdbdbd;
+}/* End custom CSS */
