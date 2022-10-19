@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>TOP Mèo Cute</title>
-		<link>https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/top-meo-cute/</link>
+					<comments>https://haizgia.github.io/wp_ck/top-meo-cute/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:59:42 +0000</pubDate>
@@ -69,7 +69,7 @@
 <pre class="wp-block-code"><code></code></pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/top-meo-cute/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

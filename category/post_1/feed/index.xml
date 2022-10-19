@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Elementor #810</title>
-		<link>https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/elementor-810/</link>
+					<comments>https://haizgia.github.io/wp_ck/elementor-810/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Sat, 01 Oct 2022 10:06:06 +0000</pubDate>
@@ -61,7 +61,7 @@
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://haizgia.github.io/wp_ck/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css"><link rel="stylesheet" href="https://haizgia.github.io/wp_ck/wp-content/plugins/elementor-pro/assets/css/widget-theme-elements.min.css">		<ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
 								<li class="elementor-icon-list-item elementor-repeater-item-7ecb692 elementor-inline-item" itemprop="datePublished">
-						<a href="https://haizgia.github.io/wp_ck/2022/10/01/">
+						<a href="https://haizgia.github.io/wp_ck/2022/10/01/" target="_blank">
 											<span class="elementor-icon-list-icon">
 								<i aria-hidden="true" class="fas fa-calendar"></i>							</span>
 									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
@@ -75,7 +75,7 @@
 										10:06 sáng					</span>
 								</li>
 				<li class="elementor-icon-list-item elementor-repeater-item-91d7beb elementor-inline-item" itemprop="commentCount">
-						<a href="https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/#respond">
+						<a href="https://haizgia.github.io/wp_ck/elementor-810/#respond" target="_blank">
 											<span class="elementor-icon-list-icon">
 								<i aria-hidden="true" class="far fa-comment-dots"></i>							</span>
 									<span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-comments">
@@ -106,7 +106,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/elementor-810/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

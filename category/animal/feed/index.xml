@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Demo</title>
-		<link>https://haizgia.github.io/wp_ck/2022/08/31/demo/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/08/31/demo/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/demo/</link>
+					<comments>https://haizgia.github.io/wp_ck/demo/#respond</comments>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 31 Aug 2022 00:37:46 +0000</pubDate>
@@ -58,65 +58,65 @@
 								<div class="elementor-element elementor-element-7fbd65e2 elementor-nav-menu__align-right elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="7fbd65e2" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 			<link rel="stylesheet" href="https://haizgia.github.io/wp_ck/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-7fbd65e2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item">Home</a>
+				<ul id="menu-1-7fbd65e2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item" target="_blank">Home</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/" class="elementor-sub-item">Tạo Page Trang Chủ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/tao-page-trang-chu/" class="elementor-sub-item" target="_blank">Tạo Page Trang Chủ</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item">Blog</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item" target="_blank">Blog</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/" class="elementor-sub-item">TOP Mèo Cute</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/top-meo-cute/" class="elementor-sub-item" target="_blank">TOP Mèo Cute</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item">Contact</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item" target="_blank">Contact</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/2022/10/02/contact/" class="elementor-sub-item">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/contact/" class="elementor-sub-item" target="_blank">Contact</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item">About US</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item" target="_blank">About US</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/2022/10/02/about/" class="elementor-sub-item">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/about/" class="elementor-sub-item" target="_blank">About</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item">Landing Page</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item" target="_blank">Landing Page</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/2022/08/31/demo/" class="elementor-sub-item">Demo</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/" class="elementor-sub-item">Elementor #810</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/demo/" class="elementor-sub-item" target="_blank">Demo</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/elementor-810/" class="elementor-sub-item" target="_blank">Elementor #810</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item" target="_blank">Cửa hàng</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-7fbd65e2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item" tabindex="-1">Home</a>
+				<ul id="menu-2-7fbd65e2" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item" tabindex="-1" target="_blank">Home</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/" class="elementor-sub-item" tabindex="-1">Tạo Page Trang Chủ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/tao-page-trang-chu/" class="elementor-sub-item" tabindex="-1" target="_blank">Tạo Page Trang Chủ</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item" tabindex="-1">Blog</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item" tabindex="-1" target="_blank">Blog</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/" class="elementor-sub-item" tabindex="-1">TOP Mèo Cute</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/top-meo-cute/" class="elementor-sub-item" tabindex="-1" target="_blank">TOP Mèo Cute</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item" tabindex="-1">Contact</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item" tabindex="-1" target="_blank">Contact</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/2022/10/02/contact/" class="elementor-sub-item" tabindex="-1">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/contact/" class="elementor-sub-item" tabindex="-1" target="_blank">Contact</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item" tabindex="-1">About US</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item" tabindex="-1" target="_blank">About US</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/2022/10/02/about/" class="elementor-sub-item" tabindex="-1">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/about/" class="elementor-sub-item" tabindex="-1" target="_blank">About</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item" tabindex="-1">Landing Page</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item" tabindex="-1" target="_blank">Landing Page</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/2022/08/31/demo/" class="elementor-sub-item" tabindex="-1">Demo</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/" class="elementor-sub-item" tabindex="-1">Elementor #810</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/demo/" class="elementor-sub-item" tabindex="-1" target="_blank">Demo</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/elementor-810/" class="elementor-sub-item" tabindex="-1" target="_blank">Elementor #810</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item" tabindex="-1" target="_blank">Cửa hàng</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -136,65 +136,65 @@
 								<div class="elementor-element elementor-element-15975cd7 elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="15975cd7" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-15975cd7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item">Home</a>
+				<ul id="menu-1-15975cd7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item" target="_blank">Home</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/" class="elementor-sub-item">Tạo Page Trang Chủ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/tao-page-trang-chu/" class="elementor-sub-item" target="_blank">Tạo Page Trang Chủ</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item">Blog</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item" target="_blank">Blog</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/" class="elementor-sub-item">TOP Mèo Cute</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/top-meo-cute/" class="elementor-sub-item" target="_blank">TOP Mèo Cute</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item">Contact</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item" target="_blank">Contact</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/2022/10/02/contact/" class="elementor-sub-item">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/contact/" class="elementor-sub-item" target="_blank">Contact</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item">About US</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item" target="_blank">About US</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/2022/10/02/about/" class="elementor-sub-item">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/about/" class="elementor-sub-item" target="_blank">About</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item">Landing Page</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item" target="_blank">Landing Page</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/2022/08/31/demo/" class="elementor-sub-item">Demo</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/" class="elementor-sub-item">Elementor #810</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/demo/" class="elementor-sub-item" target="_blank">Demo</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/elementor-810/" class="elementor-sub-item" target="_blank">Elementor #810</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item" target="_blank">Cửa hàng</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-15975cd7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item" tabindex="-1">Home</a>
+				<ul id="menu-2-15975cd7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-636"><a href="https://haizgia.github.io/wp_ck/" class="elementor-item" tabindex="-1" target="_blank">Home</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/" class="elementor-sub-item" tabindex="-1">Tạo Page Trang Chủ</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-846"><a href="https://haizgia.github.io/wp_ck/tao-page-trang-chu/" class="elementor-sub-item" tabindex="-1" target="_blank">Tạo Page Trang Chủ</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item" tabindex="-1">Blog</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children menu-item-637"><a href="https://haizgia.github.io/wp_ck/blog/" class="elementor-item" tabindex="-1" target="_blank">Blog</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/" class="elementor-sub-item" tabindex="-1">TOP Mèo Cute</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-847"><a href="https://haizgia.github.io/wp_ck/top-meo-cute/" class="elementor-sub-item" tabindex="-1" target="_blank">TOP Mèo Cute</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item" tabindex="-1">Contact</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-638"><a href="https://haizgia.github.io/wp_ck/news-2/" class="elementor-item" tabindex="-1" target="_blank">Contact</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/2022/10/02/contact/" class="elementor-sub-item" tabindex="-1">Contact</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-854"><a href="https://haizgia.github.io/wp_ck/contact/" class="elementor-sub-item" tabindex="-1" target="_blank">Contact</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item" tabindex="-1">About US</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-639"><a href="https://haizgia.github.io/wp_ck/news/" class="elementor-item" tabindex="-1" target="_blank">About US</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/2022/10/02/about/" class="elementor-sub-item" tabindex="-1">About</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-855"><a href="https://haizgia.github.io/wp_ck/about/" class="elementor-sub-item" tabindex="-1" target="_blank">About</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item" tabindex="-1">Landing Page</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-640"><a href="https://haizgia.github.io/wp_ck/demo-elementor/" class="elementor-item" tabindex="-1" target="_blank">Landing Page</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/2022/08/31/demo/" class="elementor-sub-item" tabindex="-1">Demo</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/2022/10/01/elementor-810/" class="elementor-sub-item" tabindex="-1">Elementor #810</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-845"><a href="https://haizgia.github.io/wp_ck/demo/" class="elementor-sub-item" tabindex="-1" target="_blank">Demo</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-848"><a href="https://haizgia.github.io/wp_ck/elementor-810/" class="elementor-sub-item" tabindex="-1" target="_blank">Elementor #810</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1035"><a href="https://haizgia.github.io/wp_ck/cua-hang/" class="elementor-item" tabindex="-1" target="_blank">Cửa hàng</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -1784,15 +1784,15 @@ jjjjjjjj						</div>
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/08/31/demo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/demo/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TOP Mèo Cute</title>
-		<link>https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/top-meo-cute/</link>
+					<comments>https://haizgia.github.io/wp_ck/top-meo-cute/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Wed, 24 Aug 2022 00:59:42 +0000</pubDate>
@@ -1831,7 +1831,7 @@ jjjjjjjj						</div>
 <pre class="wp-block-code"><code></code></pre>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/08/24/top-meo-cute/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/top-meo-cute/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

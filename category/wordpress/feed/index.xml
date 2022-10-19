@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Tạo Page Trang Chủ</title>
-		<link>https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/tao-page-trang-chu/</link>
+					<comments>https://haizgia.github.io/wp_ck/tao-page-trang-chu/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Sat, 23 Jul 2022 13:56:46 +0000</pubDate>
@@ -52,7 +52,7 @@
 <ul><li>Bước 1: Tạo 1 page</li><li>Bước 2: Chọn &#8220;Cài đặt&#8221; =&gt; &#8220;Đọc&#8221; =&gt; tích &#8220;Một trang tĩnh&#8221;, tại mục trang chính chọn page muốn làm trang chủ sau đó bấm &#8220;Lưu thay đổi&#8221;</li></ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/07/23/tao-page-trang-chu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/tao-page-trang-chu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

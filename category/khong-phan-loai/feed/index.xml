@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
 	<url>https://haizgia.github.io/wp_ck/wp-content/uploads/2022/09/logo-mobile-1-e1664688619201-150x81.png</url>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Contact</title>
-		<link>https://haizgia.github.io/wp_ck/2022/10/02/contact/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/10/02/contact/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/contact/</link>
+					<comments>https://haizgia.github.io/wp_ck/contact/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Sun, 02 Oct 2022 06:19:22 +0000</pubDate>
@@ -40,15 +40,15 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/10/02/contact/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/contact/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>About</title>
-		<link>https://haizgia.github.io/wp_ck/2022/10/02/about/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/10/02/about/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/about/</link>
+					<comments>https://haizgia.github.io/wp_ck/about/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Sun, 02 Oct 2022 06:19:22 +0000</pubDate>
@@ -58,15 +58,15 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/10/02/about/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/about/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Đăng nhập</title>
-		<link>https://haizgia.github.io/wp_ck/2022/10/02/dang-nhap/</link>
-					<comments>https://haizgia.github.io/wp_ck/2022/10/02/dang-nhap/#respond</comments>
+		<link>https://haizgia.github.io/wp_ck/dang-nhap/</link>
+					<comments>https://haizgia.github.io/wp_ck/dang-nhap/#respond</comments>
 		
 		<dc:creator><![CDATA[haizgia]]></dc:creator>
 		<pubDate>Sun, 02 Oct 2022 06:19:22 +0000</pubDate>
@@ -76,7 +76,7 @@
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>https://haizgia.github.io/wp_ck/2022/10/02/dang-nhap/feed/</wfw:commentRss>
+					<wfw:commentRss>https://haizgia.github.io/wp_ck/dang-nhap/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
