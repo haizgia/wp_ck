@@ -600,7 +600,7 @@
 			<!-- start Overlay Button -->
 			<style type="text/css">/* widget: Overlay Button */
 
-#uc_color_overlay_button_elementor16160 a.color-overlay-link
+#uc_color_overlay_button_elementor11628 a.color-overlay-link
 {
   display:inline-block;
   position:relative;
@@ -609,7 +609,7 @@
   overflow:hidden;
 }
 
-#uc_color_overlay_button_elementor16160 a span.ue-color-overlay
+#uc_color_overlay_button_elementor11628 a span.ue-color-overlay
 {
   display:block;
   position:absolute;
@@ -618,7 +618,7 @@
   transition:0.5s;
 }
 
-#uc_color_overlay_button_elementor16160 a .ue-btn-txt
+#uc_color_overlay_button_elementor11628 a .ue-btn-txt
 {
   position:relative;
   transition:0.5s;
@@ -626,7 +626,7 @@
 
 </style>
 
-			<div id="uc_color_overlay_button_elementor16160" class="color-overlay-button">
+			<div id="uc_color_overlay_button_elementor11628" class="color-overlay-button">
   <a href="https://airnano.vn/thuc-pham-huu-co-co-thuc-su-tot/" class="color-overlay-link " >
     <span class="ue-color-overlay"></span>
     <span class="ue-btn-txt">Read More</span>
@@ -1155,7 +1155,7 @@
 			<!-- start Overlay Button -->
 			<style type="text/css">/* widget: Overlay Button */
 
-#uc_color_overlay_button_elementor26246 a.color-overlay-link
+#uc_color_overlay_button_elementor27176 a.color-overlay-link
 {
   display:inline-block;
   position:relative;
@@ -1164,7 +1164,7 @@
   overflow:hidden;
 }
 
-#uc_color_overlay_button_elementor26246 a span.ue-color-overlay
+#uc_color_overlay_button_elementor27176 a span.ue-color-overlay
 {
   display:block;
   position:absolute;
@@ -1173,7 +1173,7 @@
   transition:0.5s;
 }
 
-#uc_color_overlay_button_elementor26246 a .ue-btn-txt
+#uc_color_overlay_button_elementor27176 a .ue-btn-txt
 {
   position:relative;
   transition:0.5s;
@@ -1181,7 +1181,7 @@
 
 </style>
 
-			<div id="uc_color_overlay_button_elementor26246" class="color-overlay-button">
+			<div id="uc_color_overlay_button_elementor27176" class="color-overlay-button">
   <a href="https://airnano.vn/thuc-pham-huu-co-co-thuc-su-tot/" class="color-overlay-link " >
     <span class="ue-color-overlay"></span>
     <span class="ue-btn-txt">Read More</span>
